@@ -5,5 +5,4 @@ Clone of youtube mobile app feed, written in Swift. Implemented using UICollecti
 <br/>
 <img height=700 src="https://raw.githubusercontent.com/zorantodorovic/youtube-feed-ios/master/youtube-feed-ios/screenshot.png"/>
 <br/>
-![alt tag](https://raw.githubusercontent.com/zorantodorovic/youtube-feed-ios/master/youtube-feed-ios/screenshot.png)
 
